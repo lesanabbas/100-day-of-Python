@@ -33,6 +33,8 @@ def treasureMap():
     print(f"{row1}\n{row2}\n{row3}")
 
 
+# Day 4 Project
+
 def rockPaperScissor():
     rock = '''
         _______

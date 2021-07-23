@@ -1,3 +1,5 @@
+
+# Day 1 Project
 def bandNameGenerator():
     city = input("Which city do you live in: ")
     pet = input("What's your pet name: ")

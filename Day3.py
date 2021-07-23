@@ -1,5 +1,3 @@
-from myClass import main
-
 
 def rollercoaster(height):
     bill = 0
@@ -47,15 +45,10 @@ def bmiCalculater():
 def leapYear():
     year = int(input("Enter year: "))
     if year % 4 == 0:
-        if year % 100 == 0:
-            if year % 400 == 0:
-                print("Leap Year")
-            else:
-                print("Not Leap Year")
-        else:
-            print("Leap year")
+        print("Leap Year")
     else:
-        print("Not a Leap year")
+        print("Not a Leap Year")
+        
 
 
 def pizzaOrder():
@@ -118,6 +111,8 @@ def loveCalculater():
     else:
         print(f"Your score is {love_score}")
 
+
+# Day 3 Project
 
 def treasureIsland():
     print('''
