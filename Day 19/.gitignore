@@ -1,0 +1,3 @@
+#ignore file
+#*.txt means ignore all text files
+pass.txt
